@@ -44,4 +44,4 @@ essayer le récepteur sans clé live, créez le point d'accès dans le portail (
 
 ## Licence
 
-MIT (voir `LICENSE`). Le SDK copié dans `vendor/lapisite/` garde ses propres conditions de licence.
+MIT (voir `LICENSE`). Le SDK copié dans `vendor/lapisite/` est aussi sous MIT (voir `vendor/LICENSE`).

@@ -114,4 +114,4 @@ tampered or stale body rejected). The test secret is built at runtime.
 
 ## License
 
-MIT (see `LICENSE`). The vendored SDK in `vendor/lapisite/` keeps its own license terms and is not relicensed.
+MIT (see `LICENSE`). The vendored SDK in `vendor/lapisite/` is MIT too (see `vendor/LICENSE`).
